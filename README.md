@@ -21,7 +21,6 @@ SwiftUIで作成したシンプルなiOS用TODOアプリケーションです。
 
 ```bash
 git clone <repository-url>
-cd todo
 ```
 
 ### 2. Xcodeプロジェクトの生成

@@ -7,7 +7,7 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             TodoListView()
-                .navigationTitle("TODO")
+                .navigationTitle("シンプルTODOアプリ")
                 .toolbar {
                     ToolbarItem(placement: .primaryAction) {
                         Button {
